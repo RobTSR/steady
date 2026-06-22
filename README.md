@@ -1,5 +1,8 @@
 # Steady — one day at a time
 
+**Live app:** https://steadyrecoveryapp.netlify.app
+&nbsp;·&nbsp; **Source:** https://github.com/RobTSR/steady
+
 A warm, non-judgmental Progressive Web App to support people in recovery from
 self-harm. It does two simple, gentle things:
 
