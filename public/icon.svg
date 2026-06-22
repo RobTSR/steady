@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d6af0"/>
+      <stop offset="1" stop-color="#ff9640"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- A gentle heart formed by two hands / a sprout — symbolizing care and growth -->
+  <path fill="#ffffff" fill-opacity="0.95"
+    d="M256 372c-8 0-16-3-22-9l-96-94c-34-33-34-87 0-120 30-29 77-30 109-3 3 3 6 6 9 9 3-3 6-6 9-9 32-27 79-26 109 3 34 33 34 87 0 120l-96 94c-6 6-14 9-22 9z"/>
+  <circle cx="256" cy="236" r="26" fill="#6d6af0"/>
+</svg>

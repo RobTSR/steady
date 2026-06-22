@@ -1,0 +1,10 @@
+{
+  "appId": "app.steady.recovery",
+  "appName": "Steady",
+  "webDir": "dist",
+  "backgroundColor": "#1c1a3d",
+  "ios": {
+    "backgroundColor": "#1c1a3d",
+    "contentInset": "always"
+  }
+}

@@ -1,0 +1,20 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Local Claude Code tooling (machine-specific paths, personal settings)
+.claude/
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+# Capacitor (iOS native project — generated on a Mac with `npm run ios:add`)
+ios/App/Pods
+ios/App/build
+ios/App/Podfile.lock
+ios/App/App/public
+DerivedData

@@ -1,0 +1,15 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Don't let the service worker get cached, so updates roll out cleanly.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+# Single-page app: serve index.html for any non-file route.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
