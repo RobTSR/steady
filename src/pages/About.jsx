@@ -29,9 +29,9 @@ export default function About() {
           yourself, please reach out to someone you trust or a crisis line:
         </p>
         <ul className="mt-3 space-y-1.5 text-sm font-semibold text-calm-800 dark:text-calm-100">
-          <li>US — call or text 988 (Suicide &amp; Crisis Lifeline)</li>
-          <li>UK &amp; ROI — call 116 123 (Samaritans)</li>
-          <li>Or text HOME to 741741 (Crisis Text Line)</li>
+          <li>UK &amp; ROI — call 116 123 (Samaritans), free, any time</li>
+          <li>Or text SHOUT to 85258 (free 24/7 crisis text line)</li>
+          <li>In an emergency, call 999</li>
         </ul>
         <p className="mt-3 text-xs text-calm-500 dark:text-calm-400">
           If you’re outside these regions, your local emergency number can connect you to help.

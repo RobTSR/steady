@@ -13,8 +13,10 @@ export default function Home({ days, startDate, daily, hasApiKey }) {
         onRefresh={daily.refresh}
       />
       <p className="max-w-xs text-balance text-center text-sm leading-relaxed text-calm-500/70 dark:text-calm-300/60">
-        If you’re in crisis, please reach out. In the US you can call or text{' '}
-        <span className="font-bold text-calm-600 dark:text-calm-200">988</span> any time.
+        If you’re in crisis, please reach out. In the UK — call{' '}
+        <span className="font-bold text-calm-600 dark:text-calm-200">116 123</span> (Samaritans) or
+        text{' '}
+        <span className="font-bold text-calm-600 dark:text-calm-200">85258</span> (SHOUT) any time.
       </p>
     </div>
   )

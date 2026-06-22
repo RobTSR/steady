@@ -20,7 +20,8 @@ Claude API key, it is stored only in your browser and sent **directly** to
 Anthropic, never to anyone else.
 
 > This app is not a substitute for professional help. If you’re in crisis, please
-> reach out — in the US you can call or text **988** any time.
+> reach out — in the UK you can call **116 123** (Samaritans) or text **85258**
+> (SHOUT) any time.
 
 ---
 
@@ -183,8 +184,8 @@ App Store Connect upload flow.
 
 **A note on App Store review for this kind of app:** Apple reviews
 mental-health and self-harm–related apps carefully and generally expects them to
-surface crisis-support resources. This app already does (988, Samaritans, and
-the Crisis Text Line on the Home and About screens), which helps — but review
+surface crisis-support resources. This app already does (Samaritans 116 123 and
+the SHOUT 85258 text line on the Home and About screens), which helps — but review
 outcomes are Apple’s call, so present the app’s supportive, non-clinical purpose
 clearly in your App Store listing.
 
