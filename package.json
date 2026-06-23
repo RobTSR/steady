@@ -1,7 +1,7 @@
 {
   "name": "steady",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A warm, non-judgmental PWA to support recovery from self-harm.",
   "scripts": {
